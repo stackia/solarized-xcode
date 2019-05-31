@@ -10,6 +10,11 @@
 2. Restart your Xcode if it is running.
 3. Select Solarized Light/Dark theme in your Xcode 'Preferences - Fonts & Colors (Tab)'.
 
+Or run the following:
+```bash
+git clone git@github.com:stackia/solarized-xcode.git && solarized-xcode/install.sh
+```
+
 ## See also
 [The Official Homepage for Solarized Theme][3]
 
