@@ -1,7 +1,7 @@
 # Solarized Light & Dark Theme for Xcode
 #### - Enjoy the world's most-popular theme for programming on Xcode
-![Solarized Light][1]
-![Solarized Dark][2]
+![Solarized Light](Screenshot_Dark.png)
+![Solarized Dark](Screenshot_Light.png)
 
 ## Installation
 > *Tested working on Xcode 12+*
@@ -16,8 +16,4 @@ git clone git@github.com:stackia/solarized-xcode.git && solarized-xcode/install.
 ```
 
 ## See also
-[The Official Homepage for Solarized Theme][3]
-
-[1]: http://i.imgur.com/dv5H0yA.png
-[2]: http://i.imgur.com/BUJcHU9.png
-[3]: http://ethanschoonover.com/solarized
+[The Official Homepage for Solarized Theme](http://ethanschoonover.com/solarized)
